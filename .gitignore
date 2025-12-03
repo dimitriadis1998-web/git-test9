@@ -1,0 +1,10 @@
+### IntelliJ IDEA ###
+out/
+.idea/
+GitTest.iml
+**/*.log
+
+
+
+### Mac OS ###
+.DS_Store
